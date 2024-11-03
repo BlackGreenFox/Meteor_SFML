@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fox\\source\\repos\\Meteor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F4AE9A-4DDB-402C-8A69-D0383859FA68}|Meteor\\Meteor.vcxproj|C:\\Users\\Fox\\source\\repos\\Meteor\\Meteor\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4F4AE9A-4DDB-402C-8A69-D0383859FA68}|Meteor\\Meteor.vcxproj|solutionrelative:Meteor\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F4AE9A-4DDB-402C-8A69-D0383859FA68}|Meteor\\Meteor.vcxproj|C:\\Users\\Fox\\source\\repos\\Meteor\\Meteor\\BlobMessage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4F4AE9A-4DDB-402C-8A69-D0383859FA68}|Meteor\\Meteor.vcxproj|solutionrelative:Meteor\\BlobMessage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F4AE9A-4DDB-402C-8A69-D0383859FA68}|Meteor\\Meteor.vcxproj|C:\\Users\\Fox\\source\\repos\\Meteor\\Meteor\\BaseObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4F4AE9A-4DDB-402C-8A69-D0383859FA68}|Meteor\\Meteor.vcxproj|solutionrelative:Meteor\\BaseObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F4AE9A-4DDB-402C-8A69-D0383859FA68}|Meteor\\Meteor.vcxproj|C:\\Users\\Fox\\source\\repos\\Meteor\\Meteor\\Meteor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4F4AE9A-4DDB-402C-8A69-D0383859FA68}|Meteor\\Meteor.vcxproj|solutionrelative:Meteor\\Meteor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F4AE9A-4DDB-402C-8A69-D0383859FA68}|Meteor\\Meteor.vcxproj|C:\\Users\\Fox\\source\\repos\\Meteor\\Meteor\\MovingObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4F4AE9A-4DDB-402C-8A69-D0383859FA68}|Meteor\\Meteor.vcxproj|solutionrelative:Meteor\\MovingObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Meteor.h",
+              "DocumentMoniker": "C:\\Users\\Fox\\source\\repos\\Meteor\\Meteor\\Meteor.h",
+              "RelativeDocumentMoniker": "Meteor\\Meteor.h",
+              "ToolTip": "C:\\Users\\Fox\\source\\repos\\Meteor\\Meteor\\Meteor.h",
+              "RelativeToolTip": "Meteor\\Meteor.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-03T12:25:38.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovingObject.h",
+              "DocumentMoniker": "C:\\Users\\Fox\\source\\repos\\Meteor\\Meteor\\MovingObject.h",
+              "RelativeDocumentMoniker": "Meteor\\MovingObject.h",
+              "ToolTip": "C:\\Users\\Fox\\source\\repos\\Meteor\\Meteor\\MovingObject.h",
+              "RelativeToolTip": "Meteor\\MovingObject.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-03T12:25:38.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseObject.h",
+              "DocumentMoniker": "C:\\Users\\Fox\\source\\repos\\Meteor\\Meteor\\BaseObject.h",
+              "RelativeDocumentMoniker": "Meteor\\BaseObject.h",
+              "ToolTip": "C:\\Users\\Fox\\source\\repos\\Meteor\\Meteor\\BaseObject.h",
+              "RelativeToolTip": "Meteor\\BaseObject.h",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-03T12:25:38.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlobMessage.h",
+              "DocumentMoniker": "C:\\Users\\Fox\\source\\repos\\Meteor\\Meteor\\BlobMessage.h",
+              "RelativeDocumentMoniker": "Meteor\\BlobMessage.h",
+              "ToolTip": "C:\\Users\\Fox\\source\\repos\\Meteor\\Meteor\\BlobMessage.h",
+              "RelativeToolTip": "Meteor\\BlobMessage.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-03T12:25:38.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application.cpp",
+              "DocumentMoniker": "C:\\Users\\Fox\\source\\repos\\Meteor\\Meteor\\Application.cpp",
+              "RelativeDocumentMoniker": "Meteor\\Application.cpp",
+              "ToolTip": "C:\\Users\\Fox\\source\\repos\\Meteor\\Meteor\\Application.cpp",
+              "RelativeToolTip": "Meteor\\Application.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T12:25:38.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

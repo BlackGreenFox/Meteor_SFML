@@ -1,0 +1,26 @@
+﻿  Application.cpp
+C:\Users\Fox\source\repos\Meteor\Meteor\BlobMessage.h(18,35): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Application.cpp')
+  
+C:\Users\Fox\source\repos\Meteor\Meteor\BlobMessage.h(18,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Application.cpp')
+  
+C:\Users\Fox\source\repos\Meteor\Meteor\Meteor.h(31,26): warning C4018: '>=': signed/unsigned mismatch
+  (compiling source file 'Application.cpp')
+  
+C:\Users\Fox\source\repos\Meteor\Meteor\Meteor.h(51,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Application.cpp')
+  
+C:\Users\Fox\source\repos\Meteor\Meteor\Meteor.h(64,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Application.cpp')
+  
+C:\Users\Fox\source\repos\Meteor\Meteor\Meteor.h(70,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Application.cpp')
+  
+C:\Users\Fox\source\repos\Meteor\Meteor\Application.cpp(27,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Fox\source\repos\Meteor\Meteor\Application.cpp(138,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fox\source\repos\Meteor\Meteor\Application.cpp(139,58): warning C4244: '=': conversion from 'sf::Int64' to 'float', possible loss of data
+C:\Users\Fox\source\repos\Meteor\Meteor\Application.cpp(140,54): warning C4244: '=': conversion from 'sf::Int64' to 'float', possible loss of data
+C:\Users\Fox\source\repos\Meteor\Meteor\BaseObject.h(35,1): warning C4172: returning address of local variable or temporary
+C:\Users\Fox\source\repos\Meteor\Meteor\BaseObject.h(32,1): warning C4172: returning address of local variable or temporary
+  Meteor.vcxproj -> C:\Users\Fox\source\repos\Meteor\Debug\Meteor.exe
